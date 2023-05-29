@@ -10,27 +10,27 @@ import {
 } from 'react-icons/io';
 
 // import images
-import Features1Img from './assets/img/features-1.png';
-import Features2Img from './assets/img/features-2.png';
-import ChairImg from './assets/img/chair.png';
-import BedImg from './assets/img/bed.png';
-import CupboardImg from './assets/img/cupboard.png';
-import LightingImg from './assets/img/lighting.png';
-import Product1Img from './assets/img/products/product-1.png';
-import Product2Img from './assets/img/products/product-2.png';
-import Product3Img from './assets/img/products/product-3.png';
-import Product4Img from './assets/img/products/product-4.png';
-import Product5Img from './assets/img/products/product-5.png';
-import Product6Img from './assets/img/products/product-6.png';
-import Product7Img from './assets/img/products/product-7.png';
-import Product8Img from './assets/img/products/product-8.png';
-import Product9Img from './assets/img/products/product-9.png';
-import Product10Img from './assets/img/products/product-10.png';
-import TestimonialImg from './assets/img/testimonial.png';
-import Avatar1Img from './assets/img/avatar-1.png';
-import Avatar2Img from './assets/img/avatar-2.png';
-import Avatar3Img from './assets/img/avatar-3.png';
-import Avatar4Img from './assets/img/avatar-4.png';
+import Features1Img from './assets/img/features-1.webp';
+import Features2Img from './assets/img/features-2.webp';
+import ChairImg from './assets/img/chair.webp';
+import BedImg from './assets/img/bed.webp';
+import CupboardImg from './assets/img/cupboard.webp';
+import LightingImg from './assets/img/lighting.webp';
+import Product1Img from './assets/img/products/product-1.webp';
+import Product2Img from './assets/img/products/product-2.webp';
+import Product3Img from './assets/img/products/product-3.webp';
+import Product4Img from './assets/img/products/product-4.webp';
+import Product5Img from './assets/img/products/product-5.webp';
+import Product6Img from './assets/img/products/product-6.webp';
+import Product7Img from './assets/img/products/product-7.webp';
+import Product8Img from './assets/img/products/product-8.webp';
+import Product9Img from './assets/img/products/product-9.webp';
+import Product10Img from './assets/img/products/product-10.webp';
+import TestimonialImg from './assets/img/testimonial.webp';
+import Avatar1Img from './assets/img/avatar-1.webp';
+import Avatar2Img from './assets/img/avatar-2.webp';
+import Avatar3Img from './assets/img/avatar-3.webp';
+import Avatar4Img from './assets/img/avatar-4.webp';
 
 export const navigation = [
   {
