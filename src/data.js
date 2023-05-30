@@ -331,20 +331,24 @@ export const newsletter = {
 export const footer = {
   social: [
     {
+      names: "youtube",
       icon: <IoLogoYoutube />,
-      href: "#",
+      href: "https://www.youtube.com/",
     },
     {
+      names: "instagram",
       icon: <IoLogoInstagram />,
-      href: "#",
+      href: "https://www.instagram.com/",
     },
     {
+      names: "github",
       icon: <IoLogoGithub />,
-      href: "#",
+      href: "https://github.com/",
     },
     {
+      names: "facebook",
       icon: <IoLogoFacebook />,
-      href: "#",
+      href: "https://www.facebook.com/",
     },
   ],
   copyright: "FurniShop 2022 - All Rights Reserved.",
