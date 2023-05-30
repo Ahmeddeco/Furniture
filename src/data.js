@@ -35,19 +35,19 @@ import Avatar4Img from "./assets/img/avatar-4.webp";
 export const navigation = [
   {
     name: "home",
-    href: "home",
-  },
-  {
-    name: "about",
-    href: "about",
+    href: "#hero",
   },
   {
     name: "features",
-    href: "features",
+    href: "#features",
+  },
+  {
+    name: "products",
+    href: "#products",
   },
   {
     name: "contact",
-    href: "contact",
+    href: "#contact",
   },
 ];
 

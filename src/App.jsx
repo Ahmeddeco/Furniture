@@ -7,12 +7,14 @@ import Products from "./components/Products";
 import Testimonial from "./components/Testimonial";
 import Newsletter from "./components/Newsletter";
 import Footer from "./components/Footer";
+import Header from "./components/Header";
 
 // import components
 
 const App = () => {
   return (
     <main className='w-full mx-auto bg-white'>
+      <Header />
       <Hero />
       <Features />
       <NewItems />

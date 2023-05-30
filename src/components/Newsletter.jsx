@@ -5,7 +5,10 @@ const Newsletter = () => {
   // destructure newsletter
   const { title, subtitle, placeholder, buttonText } = newsletter;
   return (
-    <section className='section bg-newsletter bg-cover min-h-[490px]'>
+    <section
+      id='contact'
+      className='section bg-newsletter bg-cover min-h-[490px]'
+    >
       <div className='container mx-auto flex justify-center lg:justify-end'>
         <div className='w-full max-w-[558px] text-center text-white lg:text-left'>
           <h2 className='text-4xl font-semibold max-w-[350px] mx-auto lg:mx-0 mb-5 leading-normal'>
@@ -20,7 +23,9 @@ const Newsletter = () => {
               id=''
               placeholder={placeholder}
             />
-            <button className='bg-primary h-[60px] hover:bg-slate-900 px-7 rounded-lg font-medium text-xl transition'>{buttonText}</button>
+            <button className='bg-primary h-[60px] hover:bg-slate-900 px-7 rounded-lg font-medium text-xl transition'>
+              {buttonText}
+            </button>
           </div>
         </div>
       </div>
